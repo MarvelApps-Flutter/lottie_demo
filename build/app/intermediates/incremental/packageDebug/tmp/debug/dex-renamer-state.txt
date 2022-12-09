@@ -1,0 +1,4 @@
+#Fri Dec 09 21:17:42 IST 2022
+base.0=/Users/ayush/Documents/lottie_demo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

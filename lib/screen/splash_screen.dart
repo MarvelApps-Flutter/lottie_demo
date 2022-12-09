@@ -30,7 +30,7 @@ class SplashScreenState extends State<SplashScreen>
             context,
             MaterialPageRoute(
                 builder: (context) => HomeScreen(
-                      title: 'LOTTIE',
+                      title: 'LOTTIE Demo',
                     ))));
     controller = AnimationController(
       vsync: this,
